@@ -7,3 +7,4 @@ Performing market analysis on Kickstarter data to uncover trend
 
 
 Recommend to set goal of $2000 in GB region as the median of the play projects. The pledged numbers also fall under this $2000 number. Based on the by-month analysis, we recommend to launch the campaign in June timeframe for a better success rate. 
+Music category also have the highest success rate even theater has the most success counts.

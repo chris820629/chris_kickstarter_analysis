@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-#understand a feasible campaign numbers such as goals, launching timeframe
+## Understand a feasible campaign numbers such as goals, launching timeframe
 Performing market analysis on Kickstarter data to uncover trend
 
 ![Parent Category Outcomes.png](https://github.com/chris820629/chris_kickstarter_analysis/blob/main/Parent%20Category%20Outcomes.png)
